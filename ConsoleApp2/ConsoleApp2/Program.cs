@@ -33,10 +33,10 @@ namespace ex029 {
             }
 
             if (aspas.Count > 0  ) {
-                Console.WriteLine("A operação é Invalida");
+                Console.WriteLine("A operação é INVÁLIDA!");
             }
             else if (aspas.Count == 0 ) {
-                Console.WriteLine("A operação é valida");
+                Console.WriteLine("A operação é VÁLIDA!");
             }
         }
     }
